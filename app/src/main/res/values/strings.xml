@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hawc</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_output">ViewOutput</string>
+
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+</resources>
